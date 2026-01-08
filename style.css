@@ -33,6 +33,15 @@ input {
   cursor: pointer;
 }
 
+.random_btn {
+  padding: 6px 20px;
+  background-color: rgb(45, 54, 231);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
 p {
   color: red;
 }
